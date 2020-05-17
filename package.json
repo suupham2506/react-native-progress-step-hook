@@ -1,0 +1,25 @@
+{
+  "name": "react-native-progress-step-hook",
+  "version": "1.0.0",
+  "description": "A module of step progress for both Android/IOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suupham2506/react-native-progress-step-hook.git"
+  },
+  "keywords": [
+    "react-native-step",
+    "react-native-step-progress",
+    "step-hook",
+    "react-native-progress-step-hook"
+  ],
+  "author": "Suu Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suupham2506/react-native-progress-step-hook/issues"
+  },
+  "homepage": "https://github.com/suupham2506/react-native-progress-step-hook#readme"
+}
